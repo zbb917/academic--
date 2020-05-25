@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 济北市神经病医院
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 愿你可以抛弃烦恼，在这里度过一段快乐时光。
 
 # Organizations/Affiliations
 organizations:
