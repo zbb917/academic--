@@ -24,8 +24,8 @@ subtitle = ""
   # Show user's social networking links? (true/false)
   show_social = false
 
-  # Show user's 高管? (true/false)
-  show_高管 = true
+  # Show user's interests? (true/false)
+  show_interests = true
 
 [design.background]
   # Apply a background color, gradient, or image.
