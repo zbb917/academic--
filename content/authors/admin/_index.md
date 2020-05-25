@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+一开始，这个群只是一个仅有16人的小群，它诞生的目的就是为了同学之间的网上聊天，然后这个群就越做越大，从十几人到二十几人，然后是三十人……直到今天的八十多人，成员也从仅仅是同学变成了四通八达的关系网，这一切都要感谢大家对济北市神经病医院这个大家庭的支持，对群主的支持（此处特别鸣谢“乐乐最棒啦”、“万晓娴”对本群成员扩充作出的重大贡献）。
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
