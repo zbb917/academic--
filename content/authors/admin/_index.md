@@ -14,7 +14,7 @@ role: 愿你可以抛弃烦恼，在这里度过一段快乐时光。
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: zbb917 敬上
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
