@@ -20,10 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+高管:
+- zbb917
+- Magic doctor
+- 神鲸病一号
+- 乐乐最棒啦
 
 education:
   courses:
