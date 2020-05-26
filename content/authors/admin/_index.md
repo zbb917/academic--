@@ -20,13 +20,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-想要恢复改成interests:
+想要恢复见code note@001:
 - zbb917
 - Magic doctor
 - 神鲸病一号
 - 乐乐最棒啦
 
-想要恢复改成education:
+想要恢复见code note@002:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
