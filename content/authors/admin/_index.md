@@ -20,13 +20,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+想要恢复改成interests:
 - zbb917
 - Magic doctor
 - 神鲸病一号
 - 乐乐最棒啦
 
-education:
+想要恢复改成education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
@@ -40,7 +40,7 @@ education:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
