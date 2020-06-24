@@ -20,13 +20,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+interests
 - zbb917
 - Magic doctor
 - 神鲸病一号
 - 下一个，或许就是你……
 
-education:
+education
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
